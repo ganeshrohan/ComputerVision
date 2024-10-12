@@ -1,0 +1,20 @@
+names:
+- 1_pin
+- 2_pin
+- 3_pin
+- broken
+- contamination
+- front_bend
+- missing_pin
+- missing_separator
+- wrong_color
+nc: 9
+roboflow:
+  license: Private
+  project: pushpins-kkkcx
+  url: https://app.roboflow.com/pushpins/pushpins-kkkcx/9
+  version: 9
+  workspace: pushpins
+test: /test/images
+train: /train/images
+val: /valid/images
