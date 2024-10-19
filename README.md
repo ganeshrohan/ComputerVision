@@ -1,4 +1,4 @@
-# PushPin Detection and Classification
+# 1. PushPin Detection and Classification
 
 ## Objective
 
@@ -54,3 +54,7 @@ To enhance the model's robustness, various data augmentation techniques were app
 ## Conclusion
 
 This project aims to streamline the quality control process for push pins, improving efficiency and reducing human error in inspections. By leveraging AI for visual inspection, the system will enhance overall product quality and ensure customer satisfaction.
+
+# 2. Endoscopic image classification using ResNet
+
+# 3. Wind Turbine - Image detection using YOLO.
